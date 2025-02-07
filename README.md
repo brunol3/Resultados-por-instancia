@@ -1,2 +1,2 @@
-# Resultados-por-inst-ncia
+# Resultados-por-instancia
 Resultados por instância tai 
